@@ -24,7 +24,7 @@ repository               : "simonbing/simonbing.github.io"
 author:
   # Biographic information
   avatar           : "simon_pic.jpg"
-  name             : "Simon Bing"
+  name             : # "Simon Bing"
   pronouns         : # example: "she/her"  
   bio              : "PhD researcher in Causality and Machine Learning"
   location         : "Berlin"
