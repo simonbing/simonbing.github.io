@@ -26,7 +26,7 @@ author:
   avatar           : "simon_pic.jpg"
   name             : # "Simon Bing"
   pronouns         : # example: "she/her"  
-  bio              : "PhD researcher in Causality and\ Machine Learning"
+  bio              : "PhD researcher in Causality and\\\ Machine Learning"
   location         : "Berlin"
   employer         : "TU Berlin / University of Potsdam"
   uri              : # URL
