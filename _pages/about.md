@@ -10,7 +10,7 @@ I am a PhD researcher in Causality and Machine Learning at the Technical Univers
 
 Research
 ======
-My primary research interest lies in studying how modern machine learning and causal inference can be brought together in a mutually beneficial way. I am interested in identifiable representation learning methods that exploit principles from causality, how these methods transfer to real-world applications and challenging common perceptions of what causal representation learning entails.
+My primary research interest lies in studying how modern machine learning and causal inference can be brought together in a mutually beneficial way. I am interested in identifiable representation learning methods that exploit principles from causality, how these methods transfer to [real-world settings](https://www.causalchamber.ai/) and challenging common perceptions of what causal representation learning entails.
 
 Beyond that, I am generally drawn to pragmatic (what is *useful*, rather than what is *true*) machine learning paradigms that clearly define which criteria constitute success and measure their performance accordingly.
 
