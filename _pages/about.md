@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am a PhD researcher in Causality and Machine Learning at the Technical University of Berlin and University of Potsdam supervised by [Jakob Runge](https://www.jakob-runge.com/). I am also part of the ELLIS Phd Program where I am co-supervised by [Sebastian Weichwald](https://sweichwald.de/).
+I am a PhD researcher in Causality and Machine Learning at the Technical University of Berlin and the University of Potsdam supervised by [Jakob Runge](https://www.jakob-runge.com/). I am also part of the ELLIS Phd Program where I am co-supervised by [Sebastian Weichwald](https://sweichwald.de/).
 
 Research
 ======
@@ -25,8 +25,8 @@ News
 - **September 2024:** The full version of our paper "Invariance & Causal Representation Learning: Prospects and Limitations" was accepted at TMLR.
 - **April 2024:** Presented our paper "Identifying Linearly-Mixed Causal Representations from Multi-Node Interventions" at CLeaR 2024.
 - **December 2023:** Presented a working version of our paper "Invariance & Causal Representation Learning: Prospects and Limitations" at the Causal Representation Learning workshop at NeurIPS 2023.
-- **March 2023:**: Received the [Studienstiftung PhD Fellowship](https://www.studienstiftung.de/en/doctoral-scholarships/doctoral-scholarships), granted by the German Academic Scholarship Foundation.
-- **July 2022:**: Received the [Elsa-Neumann PhD Fellowship](https://www.fu-berlin.de/en/sites/drs/funding/nafoeg/about-nafoeg.html), granted by the federal state of Berlin.
+- **March 2023:** Received the [Studienstiftung PhD Fellowship](https://www.studienstiftung.de/en/doctoral-scholarships/doctoral-scholarships), granted by the German Academic Scholarship Foundation.
+- **July 2022:** Received the [Elsa-Neumann PhD Fellowship](https://www.fu-berlin.de/en/sites/drs/funding/nafoeg/about-nafoeg.html), granted by the federal state of Berlin.
 
 <!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
