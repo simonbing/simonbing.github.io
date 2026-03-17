@@ -18,10 +18,17 @@ Please feel free to get in touch!
 
 News
 =====
-- **First Item:** Joined the CoCaLa
-- **Second Item**: Reeceived the Some Grant
+- **March 2026:** Attended the [Causal Identification and Discovery workshop](https://www.newton.ac.uk/event/cifw02/) at the Isaac Newton Institute for Mathematical Sciences in Cambridge, UK.
+- **May 2025:** Joined the [Copenhagen Causality Lab](https://cocala.github.io/) for a six month research stay where I will be working with Sebastian Weichwald and Luigi Gresele.
+- **July 2025:** Presented a working version of our paper "Structural Causal Bottleneck Models" as an **oral** at the Causal Abstractions and Representations workshop at UAI 2025.
+- **July 2025:** Presented our paper "Sanity Checking Causal Representation Learning on a Simple Real-World System" as an **oral** at ICML 2025.
+- **September 2024:** The full version of our paper "Invariance & Causal Representation Learning: Prospects and Limitations" was accepted at TMLR.
+- **April 2024:** Presented our paper "Identifying Linearly-Mixed Causal Representations from Multi-Node Interventions" at CLeaR 2024.
+- **December 2023:** Presented a working version of our paper "Invariance & Causal Representation Learning: Prospects and Limitations" at the Causal Representation Learning workshop at NeurIPS 2023.
+- **March 2023:**: Received the [Studienstiftung PhD Fellowship](https://www.studienstiftung.de/en/doctoral-scholarships/doctoral-scholarships), granted by the German Academic Scholarship Foundation.
+- **July 2022:**: Received the [Elsa-Neumann PhD Fellowship](https://www.fu-berlin.de/en/sites/drs/funding/nafoeg/about-nafoeg.html), granted by the federal state of Berlin.
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
+<!-- This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
  You can fork [this template](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and Markdown files, add your own PDFs and other content, and have your own site for free, with no ads!
 
@@ -67,4 +74,4 @@ Example: editing a Markdown file for a talk
 
 For more info
 ------
-More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful.
+More info about configuring Academic Pages can be found in [the guide](https://academicpages.github.io/markdown/), the [growing wiki](https://github.com/academicpages/academicpages.github.io/wiki), and you can always [ask a question on GitHub](https://github.com/academicpages/academicpages.github.io/discussions). The [guides for the Minimal Mistakes theme](https://mmistakes.github.io/minimal-mistakes/docs/configuration/) (which this theme was forked from) might also be helpful. -->
