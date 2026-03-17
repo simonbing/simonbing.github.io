@@ -9,7 +9,7 @@
 # Basic Site Settings
 locale                   : "en-US"
 site_theme               : "default" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
-title                    : "Simon Bing / Site Title"
+title                    : "Simon Bing"
 title_separator          : "-"
 name                     : &name "Simon Bing"
 description              : &description "Simon Bing's personal website"   # Update this with a general description of your site, this is the default if not overridden by a page
@@ -57,7 +57,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : # "bsky.app" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
