@@ -6,11 +6,20 @@ redirect_from:
   - /about/
   - /about.html
 ---
-I am PhD researcher in Causality and Machine Learning at the Technical University of Berlin and University of Potsdam supervised by [Jakob Runge](https://www.jakob-runge.com/). I am also part of the ELLIS Phd Program where I am co-supervised by [Sebastian Weichwald](https://sweichwald.de/).
+I am a PhD researcher in Causality and Machine Learning at the Technical University of Berlin and University of Potsdam supervised by [Jakob Runge](https://www.jakob-runge.com/). I am also part of the ELLIS Phd Program where I am co-supervised by [Sebastian Weichwald](https://sweichwald.de/).
 
 Research
 ======
-Some research interests.
+My primary research interest lies in studying how modern machine learning and causal inference can be brought together in a mutually beneficial way. I am interested in identifiable representation learning methods that exploit principles from causality, how these methods transfer to real-world applications and challenging common perceptions of what causal representation learning entails.
+
+Beyond that, I am generally drawn to pragmatic (what is *useful*, rather than what is *true*) machine learning paradigms that clearly define which criteria constitute success and measure their performance accordingly.
+
+Please feel free to get in touch!
+
+News
+=====
+- **First Item**: Joined the CoCaLa
+- **Second Item**: Reeceived the Some Grant
 
 This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the repository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. Incidentally, these same features make it a great template for anyone that needs to show off a professional template!
 
